@@ -12,7 +12,7 @@
 ## Features:
 
 - Fully customizable colors via [chalk](https://www.npmjs.com/package/chalk)
-- Easy config persist handling via [conf](https://www.npmjs.com/package/conf)
+- Easy config persistence handling via [conf](https://www.npmjs.com/package/conf)
 - Compile to binary via [pkg](https://www.npmjs.com/package/pkg)
 - Easily make HTTP requests using [got](https://www.npmjs.com/package/got/v/11.8.6)
 - Fully customizable menus (no external libs!)
