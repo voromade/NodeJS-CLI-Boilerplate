@@ -6,7 +6,7 @@
 <h4 align="center">🎖️ Leave a star for more! 🎖️</h4>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1133317136673165312/1173525799656230943/image.png?ex=65644611&is=6551d111&hm=2f0567b34cf93d29dfaf1850a80a8e999e2b05450f27e5d2e53ce2ceb1dff6f3&=&width=1215&height=641" alt="Voro Node.js CLI Boilerplate">
+  <img src="https://media.discordapp.net/attachments/1187784554338058323/1200591425247658124/image.png?ex=65c6bce5&is=65b447e5&hm=03d060ada4bf951a9ef7bf4dc6d65d66e5a28cc0319a2e163ce2a37c70fd0ba5&=&format=webp&quality=lossless&width=1247&height=662" alt="Voro Node.js CLI Boilerplate">
 </p>
 
 ## Features:
