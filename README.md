@@ -6,7 +6,7 @@
 <h4 align="center">🎖️ Leave a star for more! 🎖️</h4>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1187784554338058323/1200591425247658124/image.png?ex=65c6bce5&is=65b447e5&hm=03d060ada4bf951a9ef7bf4dc6d65d66e5a28cc0319a2e163ce2a37c70fd0ba5&=&format=webp&quality=lossless&width=1247&height=662" alt="Voro Node.js CLI Boilerplate">
+  <img src="voromade CLI Boilerplate.png" alt="Voro Node.js CLI Boilerplate">
 </p>
 
 ## Features:
